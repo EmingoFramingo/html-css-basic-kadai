@@ -6,7 +6,7 @@ body {
 
 h1 {
     font-family: "Josefin Sans", sans-serif;
-    font-size: 2rem;
+    font-size: 2em;
     letter-spacing: 1.2em;
     text-shadow: 1px 1px 2px black;
     border-bottom: 3px solid rgb(115, 115, 114);
@@ -19,6 +19,6 @@ h1 {
     color: skyblue;
 }
 
-#bold {
+#basic p{
     font-weight: bold;
 }
